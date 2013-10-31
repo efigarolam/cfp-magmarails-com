@@ -50,6 +50,10 @@ es:
     days: DÍAS RESTANTES
     from_company: 'De %{company}'
     github_profile: Perfil de Github
+    levels:
+      beginner: Principiante
+      intermediate: Intermedio
+      advanced: Avanzado
     mine: Mis Propuestas
     my: Mi Propuesta
     new_title: '¿Estás listo para hablar?'

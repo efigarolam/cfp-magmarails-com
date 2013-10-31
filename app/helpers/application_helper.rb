@@ -13,7 +13,7 @@ module ApplicationHelper
   end
 
   def profile_new?
-    controller.action_name == 'new'
+    controller.action_name == 'new' && controller.controller_name == 'profiles'
   end
 
   def remaining_days
